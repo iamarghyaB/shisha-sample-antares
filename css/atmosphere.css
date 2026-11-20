@@ -1,0 +1,35 @@
+
+
+.content-images {
+    display: flex;
+    width: max-content;
+    animation: marquee 60s linear infinite;
+    will-change: transform;
+}
+
+.group-1 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.image-social-media {
+    flex-shrink: 0;
+
+}
+
+@keyframes marquee {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-50%);
+    }
+}
+
+.content-images {
+    display: flex;
+    width: max-content;
+    animation: marquee 60s linear infinite;
+    will-change: transform;
+}
+  

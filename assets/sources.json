@@ -1,0 +1,1158 @@
+{
+  "permission": "User confirmed permission for private demos and public GitHub/Vercel publication on 21 November 2026.",
+  "reference": "https://antaresnyc.com/",
+  "assets": [
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5cc2b66502d0e9dd64eeb7_light.jpg",
+      "local": "assets/images/6dc8d01706-6a5cc2b66502d0e9dd64eeb7_light.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5cc2ad0d7e445bbb2c47a1_dark.jpg",
+      "local": "assets/images/714e20ae11-6a5cc2ad0d7e445bbb2c47a1_dark.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5cc2b6044efb91ba5fb9f1_light.jpg",
+      "local": "assets/images/5a9c0e87ed-6a5cc2b6044efb91ba5fb9f1_light.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5cc2e60c239069b2ee1647_Webclip.png",
+      "local": "assets/images/f2ef15c30d-6a5cc2e60c239069b2ee1647_Webclip.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5cc2e6044efb91ba5fbc05_Webclip.png",
+      "local": "assets/images/8173152ed4-6a5cc2e6044efb91ba5fbc05_Webclip.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5cc2e60d7e445bbb2c5b8f_Webclip.png",
+      "local": "assets/images/a6e6d37d4c-6a5cc2e60d7e445bbb2c5b8f_Webclip.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a679eabedc8573e473b403e_Main%20logo%20Antares-07%201.png",
+      "local": "assets/images/47079d207c-6a679eabedc8573e473b403e_Main_logo_Antares-07_1.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e7f3bbd32317d311c59b9_famicons_menu-outline.png",
+      "local": "assets/images/4b14c97284-6a5e7f3bbd32317d311c59b9_famicons_menu-outline.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a55294e084ce794260fced6_star-mokka.png",
+      "local": "assets/images/eee4448469-6a55294e084ce794260fced6_star-mokka.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a60956e4df0819ae35e2d7e_%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-07-22%20125737.png",
+      "local": "assets/images/24cf686b44-6a60956e4df0819ae35e2d7e_______________2026-07-22_125737.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a60969c4df0819ae35f1038_photo_2026-06-08_19-20-12.jpg",
+      "local": "assets/images/5c709b9680-6a60969c4df0819ae35f1038_photo_2026-06-08_19-20-12.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6094db4df0819ae35dba06_food.jpg",
+      "local": "assets/images/26bbaa6c9d-6a6094db4df0819ae35dba06_food.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a609e17074fa9d4786a1811_photo_2026-06-08_19-20-10.jpg",
+      "local": "assets/images/5ed79c393d-6a609e17074fa9d4786a1811_photo_2026-06-08_19-20-10.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6096de80defad14868ae89_%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-07-22%20130857.png",
+      "local": "assets/images/f43adcacb2-6a6096de80defad14868ae89_______________2026-07-22_130857.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6097d16244770225d6cce3_photo_2026-05-20_11-14-21.jpg",
+      "local": "assets/images/99ccf8bb4a-6a6097d16244770225d6cce3_photo_2026-05-20_11-14-21.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6096636244770225d59ed7_%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-07-22%20125718.png",
+      "local": "assets/images/3254b0aa74-6a6096636244770225d59ed7_______________2026-07-22_125718.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6097f33463e6574c55459f_photo_2026-05-23_10-18-21.jpg",
+      "local": "assets/images/2bf121a9a1-6a6097f33463e6574c55459f_photo_2026-05-23_10-18-21.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3aa68246d53ae6a9de_IMG_2231.jpg",
+      "local": "assets/images/7dc2189011-6a5fcc3aa68246d53ae6a9de_IMG_2231.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3a3751be0d5a3ba4d1_IMG_2229.jpg",
+      "local": "assets/images/93bc14b7de-6a5fcc3a3751be0d5a3ba4d1_IMG_2229.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3%2F6a5fd8b83dd5bbb4c3907e0c_hf_20260721_131855_98129b67-59a1-4678-9f29-7153992d1dbf_mp4.mp4",
+      "local": "assets/media/120586846f-6a5fd8b83dd5bbb4c3907e0c_hf_20260721_131855_98129b67-59a1-4678-9f29-7153992d1dbf_mp4.mp4"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3%2F6a5fd8b83dd5bbb4c3907e0c_hf_20260721_131855_98129b67-59a1-4678-9f29-7153992d1dbf_webm.webm",
+      "local": "assets/media/2da109f441-6a5fd8b83dd5bbb4c3907e0c_hf_20260721_131855_98129b67-59a1-4678-9f29-7153992d1dbf_webm.webm"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d0a193a372fa8a1e58b3c_food.png",
+      "local": "assets/images/2b868baad6-6a5d0a193a372fa8a1e58b3c_food.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d09d1cf5561baa2f39dd4_SUGAR%20DADDY.png",
+      "local": "assets/images/bccc6c1b10-6a5d09d1cf5561baa2f39dd4_SUGAR_DADDY.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3ab1c6d466fe90fcfe_IMG_2232.jpg",
+      "local": "assets/images/69f6f29de6-6a5fcc3ab1c6d466fe90fcfe_IMG_2232.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3aec3b2d3ff968a1cf_IMG_2230.jpg",
+      "local": "assets/images/79aba85329-6a5fcc3aec3b2d3ff968a1cf_IMG_2230.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3ae46915ef7959a291_IMG_2235.jpg",
+      "local": "assets/images/f3b0d477ed-6a5fcc3ae46915ef7959a291_IMG_2235.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3a5d6fda5d29640fc5_IMG_2233.jpg",
+      "local": "assets/images/07166933c9-6a5fcc3a5d6fda5d29640fc5_IMG_2233.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3add29249e0141a335_IMG_2236.jpg",
+      "local": "assets/images/430b13f251-6a5fcc3add29249e0141a335_IMG_2236.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1d38905372a2d4bd71_photo_2026-05-23_10-18-21.jpg",
+      "local": "assets/images/056d94b110-6a5fed1d38905372a2d4bd71_photo_2026-05-23_10-18-21.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1dc56351e0c580ebd9_photo_2026-06-23_22-36-55.jpg",
+      "local": "assets/images/f1b754f516-6a5fed1dc56351e0c580ebd9_photo_2026-06-23_22-36-55.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1df1882500d7364c17_photo_2026-05-20_11-14-21.jpg",
+      "local": "assets/images/a5cfaa654a-6a5fed1df1882500d7364c17_photo_2026-05-20_11-14-21.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1da539131b55e1429c_photo_2026-06-26_21-01-35%20(2).jpg",
+      "local": "assets/images/6e96a451c6-6a5fed1da539131b55e1429c_photo_2026-06-26_21-01-35__2_.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1dcf534cb65fc5bc59_photo_2026-06-26_21-01-35.jpg",
+      "local": "assets/images/8fab5759db-6a5fed1dcf534cb65fc5bc59_photo_2026-06-26_21-01-35.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3%2F6a5fe20ffc2a9ae8e9d5753a_video%20%281%29_mp4.mp4",
+      "local": "assets/media/3ac81ca866-6a5fe20ffc2a9ae8e9d5753a_video__1__mp4.mp4"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3%2F6a5fe20ffc2a9ae8e9d5753a_video%20%281%29_webm.webm",
+      "local": "assets/media/b939b23e0a-6a5fe20ffc2a9ae8e9d5753a_video__1__webm.webm"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a55282af5bce662b7435048_Group.png",
+      "local": "assets/images/17a754e18e-6a55282af5bce662b7435048_Group.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a60e9aa46db3e71b34908ea_griddy-icons_instagram-filled.png",
+      "local": "assets/images/e7c0025d89-6a60e9aa46db3e71b34908ea_griddy-icons_instagram-filled.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a60e8bd97876a5c0582ce95_ic_outline-tiktok.png",
+      "local": "assets/images/2a7e508c67-6a60e8bd97876a5c0582ce95_ic_outline-tiktok.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a60e96265b0c6cdeff39bb5_griddy-icons_google-filled.png",
+      "local": "assets/images/d21b394f37-6a60e96265b0c6cdeff39bb5_griddy-icons_google-filled.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3%2F6a5fd8b83dd5bbb4c3907e0c_hf_20260721_131855_98129b67-59a1-4678-9f29-7153992d1dbf_poster.0000000.jpg",
+      "local": "assets/images/d036505dd9-d8b83dd5bbb4c3907e0c_hf_20260721_131855_98129b67-59a1-4678-9f29-7153992d1dbf_poster.0000000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3%2F6a5fe20ffc2a9ae8e9d5753a_video%20%281%29_poster.0000000.jpg",
+      "local": "assets/images/ab13dd1e05-6a5fe20ffc2a9ae8e9d5753a_video__1__poster.0000000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a679eabedc8573e473b403e_Main%20logo%20Antares-07%201-p-500.png",
+      "local": "assets/images/e03c4e7e2a-6a679eabedc8573e473b403e_Main_logo_Antares-07_1-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a60956e4df0819ae35e2d7e_%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-07-22%20125737-p-500.png",
+      "local": "assets/images/a8c06fc222-6a60956e4df0819ae35e2d7e_______________2026-07-22_125737-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a60969c4df0819ae35f1038_photo_2026-06-08_19-20-12-p-500.jpg",
+      "local": "assets/images/def9ba1426-6a60969c4df0819ae35f1038_photo_2026-06-08_19-20-12-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a60969c4df0819ae35f1038_photo_2026-06-08_19-20-12-p-800.jpg",
+      "local": "assets/images/8c09137461-6a60969c4df0819ae35f1038_photo_2026-06-08_19-20-12-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6094db4df0819ae35dba06_food-p-500.jpg",
+      "local": "assets/images/b3b4589f13-6a6094db4df0819ae35dba06_food-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6094db4df0819ae35dba06_food-p-800.jpg",
+      "local": "assets/images/ecab2f3a12-6a6094db4df0819ae35dba06_food-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6094db4df0819ae35dba06_food-p-1080.jpg",
+      "local": "assets/images/591ef679d6-6a6094db4df0819ae35dba06_food-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6094db4df0819ae35dba06_food-p-1600.jpg",
+      "local": "assets/images/b4f3a96f26-6a6094db4df0819ae35dba06_food-p-1600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6094db4df0819ae35dba06_food-p-2000.jpg",
+      "local": "assets/images/32c6c1d241-6a6094db4df0819ae35dba06_food-p-2000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6094db4df0819ae35dba06_food-p-2600.jpg",
+      "local": "assets/images/fceb78b054-6a6094db4df0819ae35dba06_food-p-2600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6094db4df0819ae35dba06_food-p-3200.jpg",
+      "local": "assets/images/2c1b6dfe7d-6a6094db4df0819ae35dba06_food-p-3200.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a609e17074fa9d4786a1811_photo_2026-06-08_19-20-10-p-500.jpg",
+      "local": "assets/images/83a278912d-6a609e17074fa9d4786a1811_photo_2026-06-08_19-20-10-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a609e17074fa9d4786a1811_photo_2026-06-08_19-20-10-p-800.jpg",
+      "local": "assets/images/2d1883ab2d-6a609e17074fa9d4786a1811_photo_2026-06-08_19-20-10-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a609e17074fa9d4786a1811_photo_2026-06-08_19-20-10-p-1080.jpg",
+      "local": "assets/images/3caca6a0eb-6a609e17074fa9d4786a1811_photo_2026-06-08_19-20-10-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6096de80defad14868ae89_%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-07-22%20130857-p-500.png",
+      "local": "assets/images/4a8ee62d22-6a6096de80defad14868ae89_______________2026-07-22_130857-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6097d16244770225d6cce3_photo_2026-05-20_11-14-21-p-500.jpg",
+      "local": "assets/images/15c888402a-6a6097d16244770225d6cce3_photo_2026-05-20_11-14-21-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6096636244770225d59ed7_%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-07-22%20125718-p-500.png",
+      "local": "assets/images/3740d02024-6a6096636244770225d59ed7_______________2026-07-22_125718-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6097f33463e6574c55459f_photo_2026-05-23_10-18-21-p-500.jpg",
+      "local": "assets/images/f8a1e96868-6a6097f33463e6574c55459f_photo_2026-05-23_10-18-21-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6097f33463e6574c55459f_photo_2026-05-23_10-18-21-p-800.jpg",
+      "local": "assets/images/ad9fb54097-6a6097f33463e6574c55459f_photo_2026-05-23_10-18-21-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3aa68246d53ae6a9de_IMG_2231-p-500.jpg",
+      "local": "assets/images/9b5bd038ef-6a5fcc3aa68246d53ae6a9de_IMG_2231-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3aa68246d53ae6a9de_IMG_2231-p-800.jpg",
+      "local": "assets/images/9f4cf10774-6a5fcc3aa68246d53ae6a9de_IMG_2231-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3aa68246d53ae6a9de_IMG_2231-p-1080.jpg",
+      "local": "assets/images/fa8122d21b-6a5fcc3aa68246d53ae6a9de_IMG_2231-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3a3751be0d5a3ba4d1_IMG_2229-p-500.jpg",
+      "local": "assets/images/07289d3678-6a5fcc3a3751be0d5a3ba4d1_IMG_2229-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3a3751be0d5a3ba4d1_IMG_2229-p-800.jpg",
+      "local": "assets/images/a921747073-6a5fcc3a3751be0d5a3ba4d1_IMG_2229-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3a3751be0d5a3ba4d1_IMG_2229-p-1080.jpg",
+      "local": "assets/images/d21838fb49-6a5fcc3a3751be0d5a3ba4d1_IMG_2229-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d0a193a372fa8a1e58b3c_food-p-500.png",
+      "local": "assets/images/f2b274689d-6a5d0a193a372fa8a1e58b3c_food-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d09d1cf5561baa2f39dd4_SUGAR%20DADDY-p-500.png",
+      "local": "assets/images/0cb600c7c6-6a5d09d1cf5561baa2f39dd4_SUGAR_DADDY-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3ab1c6d466fe90fcfe_IMG_2232-p-500.jpg",
+      "local": "assets/images/6b95246aae-6a5fcc3ab1c6d466fe90fcfe_IMG_2232-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3ab1c6d466fe90fcfe_IMG_2232-p-800.jpg",
+      "local": "assets/images/61a6e07f12-6a5fcc3ab1c6d466fe90fcfe_IMG_2232-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3ab1c6d466fe90fcfe_IMG_2232-p-1080.jpg",
+      "local": "assets/images/bace4ce7e2-6a5fcc3ab1c6d466fe90fcfe_IMG_2232-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3aec3b2d3ff968a1cf_IMG_2230-p-500.jpg",
+      "local": "assets/images/3aca0d7d83-6a5fcc3aec3b2d3ff968a1cf_IMG_2230-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3aec3b2d3ff968a1cf_IMG_2230-p-800.jpg",
+      "local": "assets/images/3b2fc473c7-6a5fcc3aec3b2d3ff968a1cf_IMG_2230-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3aec3b2d3ff968a1cf_IMG_2230-p-1080.jpg",
+      "local": "assets/images/4700d5bd51-6a5fcc3aec3b2d3ff968a1cf_IMG_2230-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3ae46915ef7959a291_IMG_2235-p-500.jpg",
+      "local": "assets/images/514c6bf93e-6a5fcc3ae46915ef7959a291_IMG_2235-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3ae46915ef7959a291_IMG_2235-p-800.jpg",
+      "local": "assets/images/5aebe3d37c-6a5fcc3ae46915ef7959a291_IMG_2235-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3ae46915ef7959a291_IMG_2235-p-1080.jpg",
+      "local": "assets/images/ba3960a8e3-6a5fcc3ae46915ef7959a291_IMG_2235-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3a5d6fda5d29640fc5_IMG_2233-p-500.jpg",
+      "local": "assets/images/71691e0926-6a5fcc3a5d6fda5d29640fc5_IMG_2233-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3a5d6fda5d29640fc5_IMG_2233-p-800.jpg",
+      "local": "assets/images/0781888d75-6a5fcc3a5d6fda5d29640fc5_IMG_2233-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3a5d6fda5d29640fc5_IMG_2233-p-1080.jpg",
+      "local": "assets/images/e24c463837-6a5fcc3a5d6fda5d29640fc5_IMG_2233-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3add29249e0141a335_IMG_2236-p-500.jpg",
+      "local": "assets/images/bc2b565049-6a5fcc3add29249e0141a335_IMG_2236-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3add29249e0141a335_IMG_2236-p-800.jpg",
+      "local": "assets/images/dd6b69673b-6a5fcc3add29249e0141a335_IMG_2236-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fcc3add29249e0141a335_IMG_2236-p-1080.jpg",
+      "local": "assets/images/a632c64ace-6a5fcc3add29249e0141a335_IMG_2236-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1d38905372a2d4bd71_photo_2026-05-23_10-18-21-p-500.jpg",
+      "local": "assets/images/53d6c90179-6a5fed1d38905372a2d4bd71_photo_2026-05-23_10-18-21-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1d38905372a2d4bd71_photo_2026-05-23_10-18-21-p-800.jpg",
+      "local": "assets/images/6a47044576-6a5fed1d38905372a2d4bd71_photo_2026-05-23_10-18-21-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1d38905372a2d4bd71_photo_2026-05-23_10-18-21-p-1080.jpg",
+      "local": "assets/images/e936d06aca-6a5fed1d38905372a2d4bd71_photo_2026-05-23_10-18-21-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1dc56351e0c580ebd9_photo_2026-06-23_22-36-55-p-500.jpg",
+      "local": "assets/images/ffb8df3d0a-6a5fed1dc56351e0c580ebd9_photo_2026-06-23_22-36-55-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1dc56351e0c580ebd9_photo_2026-06-23_22-36-55-p-800.jpg",
+      "local": "assets/images/00abe039b0-6a5fed1dc56351e0c580ebd9_photo_2026-06-23_22-36-55-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1dc56351e0c580ebd9_photo_2026-06-23_22-36-55-p-1080.jpg",
+      "local": "assets/images/282a542ede-6a5fed1dc56351e0c580ebd9_photo_2026-06-23_22-36-55-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1df1882500d7364c17_photo_2026-05-20_11-14-21-p-500.jpg",
+      "local": "assets/images/8d2b4efa43-6a5fed1df1882500d7364c17_photo_2026-05-20_11-14-21-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1df1882500d7364c17_photo_2026-05-20_11-14-21-p-800.jpg",
+      "local": "assets/images/dcffec3192-6a5fed1df1882500d7364c17_photo_2026-05-20_11-14-21-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1df1882500d7364c17_photo_2026-05-20_11-14-21-p-1080.jpg",
+      "local": "assets/images/93cf2648f9-6a5fed1df1882500d7364c17_photo_2026-05-20_11-14-21-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1da539131b55e1429c_photo_2026-06-26_21-01-35%20(2)-p-500.jpg",
+      "local": "assets/images/153928af46-6a5fed1da539131b55e1429c_photo_2026-06-26_21-01-35__2_-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1da539131b55e1429c_photo_2026-06-26_21-01-35%20(2)-p-800.jpg",
+      "local": "assets/images/7908ca7318-6a5fed1da539131b55e1429c_photo_2026-06-26_21-01-35__2_-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1da539131b55e1429c_photo_2026-06-26_21-01-35%20(2)-p-1080.jpg",
+      "local": "assets/images/3fe690eb91-6a5fed1da539131b55e1429c_photo_2026-06-26_21-01-35__2_-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1dcf534cb65fc5bc59_photo_2026-06-26_21-01-35-p-500.jpg",
+      "local": "assets/images/383f123944-6a5fed1dcf534cb65fc5bc59_photo_2026-06-26_21-01-35-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1dcf534cb65fc5bc59_photo_2026-06-26_21-01-35-p-800.jpg",
+      "local": "assets/images/d8b88d9fe6-6a5fed1dcf534cb65fc5bc59_photo_2026-06-26_21-01-35-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fed1dcf534cb65fc5bc59_photo_2026-06-26_21-01-35-p-1080.jpg",
+      "local": "assets/images/f920161cc9-6a5fed1dcf534cb65fc5bc59_photo_2026-06-26_21-01-35-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a50fabf2be03875c0c5bd28_star-white.png",
+      "local": "assets/images/2d31d41c28-6a50fabf2be03875c0c5bd28_star-white.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e55401b45398bd39f277b_CAESAR%20SALAD%20CHICKEN.jpg",
+      "local": "assets/images/5c45e57c81-6a5e55401b45398bd39f277b_CAESAR_SALAD_CHICKEN.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fe6985e2fb5ea96012d2b_dairy-black.png",
+      "local": "assets/images/6719e4efd9-6a5fe6985e2fb5ea96012d2b_dairy-black.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fe747d217eb9963d139a3_egg-black.png",
+      "local": "assets/images/7168cbe17b-6a5fe747d217eb9963d139a3_egg-black.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5f4ee7e3cf3db7555b9096_gluten.png",
+      "local": "assets/images/ab36335397-6a5f4ee7e3cf3db7555b9096_gluten.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5540a79c0429a204aee4_CAESAR%20SALAD%20SHRIMP.jpg",
+      "local": "assets/images/d5bd41a171-6a5e5540a79c0429a204aee4_CAESAR_SALAD_SHRIMP.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fe87ffe9ff56ecefbff35_shrimp-black.png",
+      "local": "assets/images/623251faa1-6a5fe87ffe9ff56ecefbff35_shrimp-black.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6ea1a43a87f22ce1fe_BURRATA%20TOMATO%20SALAD.png",
+      "local": "assets/images/b99b671282-6a67be6ea1a43a87f22ce1fe_BURRATA_TOMATO_SALAD.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5f4ee7da394e2bd1484116_veg.png",
+      "local": "assets/images/2d77156cab-6a5f4ee7da394e2bd1484116_veg.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e586d768a85bf9d0410b7_CHEESE%20BOARD.jpg",
+      "local": "assets/images/0e03c52e23-6a5e586d768a85bf9d0410b7_CHEESE_BOARD.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5f4ee7dd9ae4f91a4fa939_nuts.png",
+      "local": "assets/images/7f49c44e28-6a5f4ee7dd9ae4f91a4fa939_nuts.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e59374a1433414b4fe3de_BUFFALO%20WINGS.jpg",
+      "local": "assets/images/900ff83414-6a5e59374a1433414b4fe3de_BUFFALO_WINGS.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a63640aa71615bc7454f5bb_fa-solid_pepper-hot.png",
+      "local": "assets/images/195ece7d3f-6a63640aa71615bc7454f5bb_fa-solid_pepper-hot.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5a0ab1e7d6507d485f73_BEEF%20TARTARE%20WITH%20TRUFFLE%20FOAM.jpg",
+      "local": "assets/images/1ee1f60787-6a5e5a0ab1e7d6507d485f73_BEEF_TARTARE_WITH_TRUFFLE_FOAM.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fe7f59b0a35c3296032d5_soy-black.png",
+      "local": "assets/images/825f6f987b-6a5fe7f59b0a35c3296032d5_soy-black.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5af1a0339e5e047fa903_SALMON%20TARTARE.JPG",
+      "local": "assets/images/a7792a510b-6a5e5af1a0339e5e047fa903_SALMON_TARTARE.JPG"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fe854d1626931bff8a311_fish-black.png",
+      "local": "assets/images/f65dddf2e4-6a5fe854d1626931bff8a311_fish-black.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6ef29026cd22788ae7_MIX%20FRIED%20APPETIZER.png",
+      "local": "assets/images/43c9e15059-6a67be6ef29026cd22788ae7_MIX_FRIED_APPETIZER.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6d7be6c92aa2495dac_MARGHERITA%20PIZZA.png",
+      "local": "assets/images/07716d9fd5-6a67be6d7be6c92aa2495dac_MARGHERITA_PIZZA.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67c02a42b6ee7a857eee75_SIGNATURE%20BURGER.jpeg",
+      "local": "assets/images/504db4c5e3-6a67c02a42b6ee7a857eee75_SIGNATURE_BURGER.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5c8439bdcf936db7e502_TRUFFLE%20SMASH%20BURGER.jpg",
+      "local": "assets/images/55a31e8063-6a5e5c8439bdcf936db7e502_TRUFFLE_SMASH_BURGER.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67c029ce7dd371fc9d3578_SPICY%20SMASH%20BURGER.png",
+      "local": "assets/images/b1f9b0c7b1-6a67c029ce7dd371fc9d3578_SPICY_SMASH_BURGER.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e62044e45d5a4c0768f5d_SALMON%20WITH%20GREEN%20PEA%20PUR%C3%89E.jpg",
+      "local": "assets/images/97e1c3655e-6a5e62044e45d5a4c0768f5d_SALMON_WITH_GREEN_PEA_PUR_E.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6fa1a43a87f22ce240_CHICKEN%20SHISH%20KEBAB.jpeg",
+      "local": "assets/images/bff04a4615-6a67be6fa1a43a87f22ce240_CHICKEN_SHISH_KEBAB.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6ef84a8dd463af06f7_RIBEYE%20STEAK.png",
+      "local": "assets/images/e0f1ed08bf-6a67be6ef84a8dd463af06f7_RIBEYE_STEAK.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6e158a38e817a6b976_SKIRT%20STEAK.png",
+      "local": "assets/images/451ddd5bd7-6a67be6e158a38e817a6b976_SKIRT_STEAK.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6325fefb48b98ae83b27_SPAGHETTI%20AGLIO%20E%20OLIO%20WITH%20SHRIMP.jpg",
+      "local": "assets/images/a4d0119617-6a5e6325fefb48b98ae83b27_SPAGHETTI_AGLIO_E_OLIO_WITH_SHRIMP.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6281fefb48b98ae7c1be_TRUFFLE%20PARMESAN%20FRIES.jpg",
+      "local": "assets/images/65b24148c7-6a5e6281fefb48b98ae7c1be_TRUFFLE_PARMESAN_FRIES.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e65275b89da4dc043c303_ROASTED%20POTATOES.jpg",
+      "local": "assets/images/e8963dc063-6a5e65275b89da4dc043c303_ROASTED_POTATOES.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6df959ee33a42fa52f_RICE.png",
+      "local": "assets/images/1c44030892-6a67be6df959ee33a42fa52f_RICE.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6d6b7db7f6de51e849_ARTISAN%20PINSA%20BREAD.png",
+      "local": "assets/images/b60bfb9e95-6a67be6d6b7db7f6de51e849_ARTISAN_PINSA_BREAD.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6e7de76e4c213325dd_APPLE%20PIE.png",
+      "local": "assets/images/60d4b206e5-6a67be6e7de76e4c213325dd_APPLE_PIE.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6e225777ef79dad799_FRUIT%20PLATTER%20.png",
+      "local": "assets/images/3adeef0e21-6a67be6e225777ef79dad799_FRUIT_PLATTER_.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5f5b4e45d5a4c074a2bd_CLASSIC%20TIRAMISU.jpg",
+      "local": "assets/images/5ca13a05dd-6a5e5f5b4e45d5a4c074a2bd_CLASSIC_TIRAMISU.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a686f5908e061caa77b9104_Emerald%20forest.png",
+      "local": "assets/images/c13fe087af-6a686f5908e061caa77b9104_Emerald_forest.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6870aa565ad8d3777a4aab_Sweet%20poison.png",
+      "local": "assets/images/ded27c0518-6a6870aa565ad8d3777a4aab_Sweet_poison.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a686f58e6bcfcd23e6e3a7c_Scorpio%20heart.png",
+      "local": "assets/images/e0fc3a39cf-6a686f58e6bcfcd23e6e3a7c_Scorpio_heart.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a686f57c817dcef83b7cbc7_Iceberg.png",
+      "local": "assets/images/d453e4127b-6a686f57c817dcef83b7cbc7_Iceberg.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6870f33270751311c51d40_Berry%20crush.png",
+      "local": "assets/images/75fa27bdc8-6a6870f33270751311c51d40_Berry_crush.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d2d032b54e51608ab43ec_KYOTO%20BLANC.png",
+      "local": "assets/images/998b492a06-6a5d2d032b54e51608ab43ec_KYOTO_BLANC.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6aefc13e0a4faf98366665d9_16D928A5-6E23-45BE-B570-8B41829B3CFD.jpg",
+      "local": "assets/images/5d9f914c3c-6aefc13e0a4faf98366665d9_16D928A5-6E23-45BE-B570-8B41829B3CFD.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d2d23ebaaeddbec9c6bca_SMOKED%20NEGRONI.png",
+      "local": "assets/images/a8c13b72a9-6a5d2d23ebaaeddbec9c6bca_SMOKED_NEGRONI.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d2dd9d17f7237760c8981_SUGAR%20DADDY.png",
+      "local": "assets/images/e891fe10bd-6a5d2dd9d17f7237760c8981_SUGAR_DADDY.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d2e35e2fc5acdc5ec8437_BLUE%20BLOOM%20SOUR.png",
+      "local": "assets/images/6f96351bc6-6a5d2e35e2fc5acdc5ec8437_BLUE_BLOOM_SOUR.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d2eea65f790f9c1f0b1fa_LAVENDER%20GIN%20%26%20TONIC.png",
+      "local": "assets/images/6955ab5ed2-6a5d2eea65f790f9c1f0b1fa_LAVENDER_GIN___TONIC.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d2f302b54e51608ab8681_MOONLIGHT%20PEAR.png",
+      "local": "assets/images/88ad832b28-6a5d2f302b54e51608ab8681_MOONLIGHT_PEAR.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d2fbc277c6a6e009d54cb_GUAVA%20VOLCANO.png",
+      "local": "assets/images/9dca433c4c-6a5d2fbc277c6a6e009d54cb_GUAVA_VOLCANO.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d3087c0a6a42dbf1bcc69_DIABLO%20ROSA.png",
+      "local": "assets/images/e8f21b3e33-6a5d3087c0a6a42dbf1bcc69_DIABLO_ROSA.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d30fd277c6a6e009d7941_PI%C3%91A%20PAINKILLER.png",
+      "local": "assets/images/92262ab59b-6a5d30fd277c6a6e009d7941_PI_A_PAINKILLER.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d315fc0a6a42dbf1c0134_BLACK%20FOREST%20SOUR.png",
+      "local": "assets/images/626eca446f-6a5d315fc0a6a42dbf1c0134_BLACK_FOREST_SOUR.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d31bd495c001d05a98c6a_POPCORN%20WHISKEY%20SOUR.png",
+      "local": "assets/images/c4dc471dfa-6a5d31bd495c001d05a98c6a_POPCORN_WHISKEY_SOUR.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d321ac665c6e549800477_GOLD%20PORNSTAR%20MARTINI.png",
+      "local": "assets/images/466550190a-6a5d321ac665c6e549800477_GOLD_PORNSTAR_MARTINI.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d327b4dbbbca082bb7503_CHOCO-ORANGE%20ESPRESSO%20MARTINI.png",
+      "local": "assets/images/23efd55933-6a5d327b4dbbbca082bb7503_CHOCO-ORANGE_ESPRESSO_MARTINI.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d32d33a687202f28f4659_BLOODY%20PICKLE.png",
+      "local": "assets/images/9564e50291-6a5d32d33a687202f28f4659_BLOODY_PICKLE.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d40c6a5db3796b30621c1_B-52%20SHOT.png",
+      "local": "assets/images/58b5a378d7-6a5d40c6a5db3796b30621c1_B-52_SHOT.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d4115e3ebb7d5873d6461_MINI%20DIABLO.png",
+      "local": "assets/images/1a383ae113-6a5d4115e3ebb7d5873d6461_MINI_DIABLO.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d414d62117e57604779aa_MINI%20BLACK%20FOREST.png",
+      "local": "assets/images/ba4919f70f-6a5d414d62117e57604779aa_MINI_BLACK_FOREST.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d417b0e72bcb440ae8b06_GREEN%20TEA.png",
+      "local": "assets/images/66b9764ee3-6a5d417b0e72bcb440ae8b06_GREEN_TEA.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d41b486cf13ef3e687f24_PICKLEBACK.png",
+      "local": "assets/images/7226feab48-6a5d41b486cf13ef3e687f24_PICKLEBACK.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d41db089f1016a7eeefb3_PASSION%20FRUIT.png",
+      "local": "assets/images/97a3b16cf5-6a5d41db089f1016a7eeefb3_PASSION_FRUIT.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e55401b45398bd39f277b_CAESAR%20SALAD%20CHICKEN-p-500.jpg",
+      "local": "assets/images/6b4ad9c229-6a5e55401b45398bd39f277b_CAESAR_SALAD_CHICKEN-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e55401b45398bd39f277b_CAESAR%20SALAD%20CHICKEN-p-800.jpg",
+      "local": "assets/images/ad87faee90-6a5e55401b45398bd39f277b_CAESAR_SALAD_CHICKEN-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e55401b45398bd39f277b_CAESAR%20SALAD%20CHICKEN-p-1080.jpg",
+      "local": "assets/images/de7b5dc5a1-6a5e55401b45398bd39f277b_CAESAR_SALAD_CHICKEN-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e55401b45398bd39f277b_CAESAR%20SALAD%20CHICKEN-p-1600.jpg",
+      "local": "assets/images/503b80f4e7-6a5e55401b45398bd39f277b_CAESAR_SALAD_CHICKEN-p-1600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e55401b45398bd39f277b_CAESAR%20SALAD%20CHICKEN-p-2000.jpg",
+      "local": "assets/images/0f74fe2e5a-6a5e55401b45398bd39f277b_CAESAR_SALAD_CHICKEN-p-2000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e55401b45398bd39f277b_CAESAR%20SALAD%20CHICKEN-p-2600.jpg",
+      "local": "assets/images/10b4a119cc-6a5e55401b45398bd39f277b_CAESAR_SALAD_CHICKEN-p-2600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e55401b45398bd39f277b_CAESAR%20SALAD%20CHICKEN-p-3200.jpg",
+      "local": "assets/images/dc225a212f-6a5e55401b45398bd39f277b_CAESAR_SALAD_CHICKEN-p-3200.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5540a79c0429a204aee4_CAESAR%20SALAD%20SHRIMP-p-500.jpg",
+      "local": "assets/images/9a369f56f0-6a5e5540a79c0429a204aee4_CAESAR_SALAD_SHRIMP-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5540a79c0429a204aee4_CAESAR%20SALAD%20SHRIMP-p-800.jpg",
+      "local": "assets/images/fb3a70f656-6a5e5540a79c0429a204aee4_CAESAR_SALAD_SHRIMP-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5540a79c0429a204aee4_CAESAR%20SALAD%20SHRIMP-p-1080.jpg",
+      "local": "assets/images/7e79bf3cd0-6a5e5540a79c0429a204aee4_CAESAR_SALAD_SHRIMP-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5540a79c0429a204aee4_CAESAR%20SALAD%20SHRIMP-p-1600.jpg",
+      "local": "assets/images/a9a039311a-6a5e5540a79c0429a204aee4_CAESAR_SALAD_SHRIMP-p-1600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5540a79c0429a204aee4_CAESAR%20SALAD%20SHRIMP-p-2000.jpg",
+      "local": "assets/images/11d71fa045-6a5e5540a79c0429a204aee4_CAESAR_SALAD_SHRIMP-p-2000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5540a79c0429a204aee4_CAESAR%20SALAD%20SHRIMP-p-2600.jpg",
+      "local": "assets/images/415a920d78-6a5e5540a79c0429a204aee4_CAESAR_SALAD_SHRIMP-p-2600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5540a79c0429a204aee4_CAESAR%20SALAD%20SHRIMP-p-3200.jpg",
+      "local": "assets/images/5ea169f910-6a5e5540a79c0429a204aee4_CAESAR_SALAD_SHRIMP-p-3200.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6ea1a43a87f22ce1fe_BURRATA%20TOMATO%20SALAD-p-500.png",
+      "local": "assets/images/b5c6ac4a7c-6a67be6ea1a43a87f22ce1fe_BURRATA_TOMATO_SALAD-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e586d768a85bf9d0410b7_CHEESE%20BOARD-p-500.jpg",
+      "local": "assets/images/3f49289d59-6a5e586d768a85bf9d0410b7_CHEESE_BOARD-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e586d768a85bf9d0410b7_CHEESE%20BOARD-p-800.jpg",
+      "local": "assets/images/b8e1b261ef-6a5e586d768a85bf9d0410b7_CHEESE_BOARD-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e586d768a85bf9d0410b7_CHEESE%20BOARD-p-1080.jpg",
+      "local": "assets/images/ae9c0aaa24-6a5e586d768a85bf9d0410b7_CHEESE_BOARD-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e586d768a85bf9d0410b7_CHEESE%20BOARD-p-1600.jpg",
+      "local": "assets/images/d338a5db62-6a5e586d768a85bf9d0410b7_CHEESE_BOARD-p-1600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e586d768a85bf9d0410b7_CHEESE%20BOARD-p-2000.jpg",
+      "local": "assets/images/7766ecde94-6a5e586d768a85bf9d0410b7_CHEESE_BOARD-p-2000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e586d768a85bf9d0410b7_CHEESE%20BOARD-p-2600.jpg",
+      "local": "assets/images/58d91f7325-6a5e586d768a85bf9d0410b7_CHEESE_BOARD-p-2600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e586d768a85bf9d0410b7_CHEESE%20BOARD-p-3200.jpg",
+      "local": "assets/images/c6a7f105fe-6a5e586d768a85bf9d0410b7_CHEESE_BOARD-p-3200.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e59374a1433414b4fe3de_BUFFALO%20WINGS-p-500.jpg",
+      "local": "assets/images/7d481781b5-6a5e59374a1433414b4fe3de_BUFFALO_WINGS-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e59374a1433414b4fe3de_BUFFALO%20WINGS-p-800.jpg",
+      "local": "assets/images/40033611b2-6a5e59374a1433414b4fe3de_BUFFALO_WINGS-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e59374a1433414b4fe3de_BUFFALO%20WINGS-p-1080.jpg",
+      "local": "assets/images/7ca2f34b51-6a5e59374a1433414b4fe3de_BUFFALO_WINGS-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e59374a1433414b4fe3de_BUFFALO%20WINGS-p-1600.jpg",
+      "local": "assets/images/79eb5f711e-6a5e59374a1433414b4fe3de_BUFFALO_WINGS-p-1600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e59374a1433414b4fe3de_BUFFALO%20WINGS-p-2000.jpg",
+      "local": "assets/images/ab5695143c-6a5e59374a1433414b4fe3de_BUFFALO_WINGS-p-2000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e59374a1433414b4fe3de_BUFFALO%20WINGS-p-2600.jpg",
+      "local": "assets/images/b39036f876-6a5e59374a1433414b4fe3de_BUFFALO_WINGS-p-2600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5a0ab1e7d6507d485f73_BEEF%20TARTARE%20WITH%20TRUFFLE%20FOAM-p-500.jpg",
+      "local": "assets/images/f2be8f9ea8-6a5e5a0ab1e7d6507d485f73_BEEF_TARTARE_WITH_TRUFFLE_FOAM-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5a0ab1e7d6507d485f73_BEEF%20TARTARE%20WITH%20TRUFFLE%20FOAM-p-800.jpg",
+      "local": "assets/images/0734926972-6a5e5a0ab1e7d6507d485f73_BEEF_TARTARE_WITH_TRUFFLE_FOAM-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5a0ab1e7d6507d485f73_BEEF%20TARTARE%20WITH%20TRUFFLE%20FOAM-p-1080.jpg",
+      "local": "assets/images/c2aa5ecf93-6a5e5a0ab1e7d6507d485f73_BEEF_TARTARE_WITH_TRUFFLE_FOAM-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5a0ab1e7d6507d485f73_BEEF%20TARTARE%20WITH%20TRUFFLE%20FOAM-p-1600.jpg",
+      "local": "assets/images/1e47786086-6a5e5a0ab1e7d6507d485f73_BEEF_TARTARE_WITH_TRUFFLE_FOAM-p-1600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5a0ab1e7d6507d485f73_BEEF%20TARTARE%20WITH%20TRUFFLE%20FOAM-p-2000.jpg",
+      "local": "assets/images/2d63d18670-6a5e5a0ab1e7d6507d485f73_BEEF_TARTARE_WITH_TRUFFLE_FOAM-p-2000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5a0ab1e7d6507d485f73_BEEF%20TARTARE%20WITH%20TRUFFLE%20FOAM-p-2600.jpg",
+      "local": "assets/images/69a2d7cce9-6a5e5a0ab1e7d6507d485f73_BEEF_TARTARE_WITH_TRUFFLE_FOAM-p-2600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5af1a0339e5e047fa903_SALMON%20TARTARE-p-500.jpg",
+      "local": "assets/images/8b73ef4e78-6a5e5af1a0339e5e047fa903_SALMON_TARTARE-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5af1a0339e5e047fa903_SALMON%20TARTARE-p-800.jpg",
+      "local": "assets/images/2bbf2c0cb9-6a5e5af1a0339e5e047fa903_SALMON_TARTARE-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5af1a0339e5e047fa903_SALMON%20TARTARE-p-1080.jpg",
+      "local": "assets/images/9ed13d014f-6a5e5af1a0339e5e047fa903_SALMON_TARTARE-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5af1a0339e5e047fa903_SALMON%20TARTARE-p-1600.jpg",
+      "local": "assets/images/abc4d9429c-6a5e5af1a0339e5e047fa903_SALMON_TARTARE-p-1600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5af1a0339e5e047fa903_SALMON%20TARTARE-p-2000.jpg",
+      "local": "assets/images/0716f9b1db-6a5e5af1a0339e5e047fa903_SALMON_TARTARE-p-2000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5af1a0339e5e047fa903_SALMON%20TARTARE-p-2600.jpg",
+      "local": "assets/images/e706f7b99e-6a5e5af1a0339e5e047fa903_SALMON_TARTARE-p-2600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5af1a0339e5e047fa903_SALMON%20TARTARE-p-3200.jpg",
+      "local": "assets/images/739861ff67-6a5e5af1a0339e5e047fa903_SALMON_TARTARE-p-3200.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6ef29026cd22788ae7_MIX%20FRIED%20APPETIZER-p-500.png",
+      "local": "assets/images/4bf40a575b-6a67be6ef29026cd22788ae7_MIX_FRIED_APPETIZER-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6d7be6c92aa2495dac_MARGHERITA%20PIZZA-p-500.png",
+      "local": "assets/images/624b9c8515-6a67be6d7be6c92aa2495dac_MARGHERITA_PIZZA-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67c02a42b6ee7a857eee75_SIGNATURE%20BURGER-p-500.jpeg",
+      "local": "assets/images/56362005f9-6a67c02a42b6ee7a857eee75_SIGNATURE_BURGER-p-500.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67c02a42b6ee7a857eee75_SIGNATURE%20BURGER-p-800.jpeg",
+      "local": "assets/images/e57344dacf-6a67c02a42b6ee7a857eee75_SIGNATURE_BURGER-p-800.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67c02a42b6ee7a857eee75_SIGNATURE%20BURGER-p-1080.jpeg",
+      "local": "assets/images/069362039b-6a67c02a42b6ee7a857eee75_SIGNATURE_BURGER-p-1080.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67c02a42b6ee7a857eee75_SIGNATURE%20BURGER-p-1600.jpeg",
+      "local": "assets/images/6e0c8f3c98-6a67c02a42b6ee7a857eee75_SIGNATURE_BURGER-p-1600.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67c02a42b6ee7a857eee75_SIGNATURE%20BURGER-p-2000.jpeg",
+      "local": "assets/images/51d0a25d39-6a67c02a42b6ee7a857eee75_SIGNATURE_BURGER-p-2000.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67c02a42b6ee7a857eee75_SIGNATURE%20BURGER-p-2600.jpeg",
+      "local": "assets/images/54719992c2-6a67c02a42b6ee7a857eee75_SIGNATURE_BURGER-p-2600.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67c02a42b6ee7a857eee75_SIGNATURE%20BURGER-p-3200.jpeg",
+      "local": "assets/images/7556d9a341-6a67c02a42b6ee7a857eee75_SIGNATURE_BURGER-p-3200.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5c8439bdcf936db7e502_TRUFFLE%20SMASH%20BURGER-p-500.jpg",
+      "local": "assets/images/c1393c7f88-6a5e5c8439bdcf936db7e502_TRUFFLE_SMASH_BURGER-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5c8439bdcf936db7e502_TRUFFLE%20SMASH%20BURGER-p-800.jpg",
+      "local": "assets/images/0b53a27545-6a5e5c8439bdcf936db7e502_TRUFFLE_SMASH_BURGER-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5c8439bdcf936db7e502_TRUFFLE%20SMASH%20BURGER-p-1080.jpg",
+      "local": "assets/images/aa2a35f071-6a5e5c8439bdcf936db7e502_TRUFFLE_SMASH_BURGER-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5c8439bdcf936db7e502_TRUFFLE%20SMASH%20BURGER-p-1600.jpg",
+      "local": "assets/images/8cdca30e4e-6a5e5c8439bdcf936db7e502_TRUFFLE_SMASH_BURGER-p-1600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5c8439bdcf936db7e502_TRUFFLE%20SMASH%20BURGER-p-2000.jpg",
+      "local": "assets/images/7b1f10b9aa-6a5e5c8439bdcf936db7e502_TRUFFLE_SMASH_BURGER-p-2000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5c8439bdcf936db7e502_TRUFFLE%20SMASH%20BURGER-p-2600.jpg",
+      "local": "assets/images/ccf4a35463-6a5e5c8439bdcf936db7e502_TRUFFLE_SMASH_BURGER-p-2600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67c029ce7dd371fc9d3578_SPICY%20SMASH%20BURGER-p-500.png",
+      "local": "assets/images/0600c68a4b-6a67c029ce7dd371fc9d3578_SPICY_SMASH_BURGER-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67c029ce7dd371fc9d3578_SPICY%20SMASH%20BURGER-p-800.png",
+      "local": "assets/images/016cff7fa4-6a67c029ce7dd371fc9d3578_SPICY_SMASH_BURGER-p-800.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e62044e45d5a4c0768f5d_SALMON%20WITH%20GREEN%20PEA%20PUR%C3%89E-p-500.jpg",
+      "local": "assets/images/92523bf2d9-6a5e62044e45d5a4c0768f5d_SALMON_WITH_GREEN_PEA_PUR_E-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e62044e45d5a4c0768f5d_SALMON%20WITH%20GREEN%20PEA%20PUR%C3%89E-p-800.jpg",
+      "local": "assets/images/61b374dae9-6a5e62044e45d5a4c0768f5d_SALMON_WITH_GREEN_PEA_PUR_E-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e62044e45d5a4c0768f5d_SALMON%20WITH%20GREEN%20PEA%20PUR%C3%89E-p-1080.jpg",
+      "local": "assets/images/9f8e0e57dc-6a5e62044e45d5a4c0768f5d_SALMON_WITH_GREEN_PEA_PUR_E-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e62044e45d5a4c0768f5d_SALMON%20WITH%20GREEN%20PEA%20PUR%C3%89E-p-1600.jpg",
+      "local": "assets/images/baf7bc901b-6a5e62044e45d5a4c0768f5d_SALMON_WITH_GREEN_PEA_PUR_E-p-1600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e62044e45d5a4c0768f5d_SALMON%20WITH%20GREEN%20PEA%20PUR%C3%89E-p-2000.jpg",
+      "local": "assets/images/18ab045d6a-6a5e62044e45d5a4c0768f5d_SALMON_WITH_GREEN_PEA_PUR_E-p-2000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e62044e45d5a4c0768f5d_SALMON%20WITH%20GREEN%20PEA%20PUR%C3%89E-p-2600.jpg",
+      "local": "assets/images/b525db2574-6a5e62044e45d5a4c0768f5d_SALMON_WITH_GREEN_PEA_PUR_E-p-2600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6fa1a43a87f22ce240_CHICKEN%20SHISH%20KEBAB-p-500.jpeg",
+      "local": "assets/images/5d37c485c2-6a67be6fa1a43a87f22ce240_CHICKEN_SHISH_KEBAB-p-500.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6fa1a43a87f22ce240_CHICKEN%20SHISH%20KEBAB-p-800.jpeg",
+      "local": "assets/images/75a34c6001-6a67be6fa1a43a87f22ce240_CHICKEN_SHISH_KEBAB-p-800.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6fa1a43a87f22ce240_CHICKEN%20SHISH%20KEBAB-p-1080.jpeg",
+      "local": "assets/images/645d9b2c02-6a67be6fa1a43a87f22ce240_CHICKEN_SHISH_KEBAB-p-1080.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6fa1a43a87f22ce240_CHICKEN%20SHISH%20KEBAB-p-1600.jpeg",
+      "local": "assets/images/7274ecf330-6a67be6fa1a43a87f22ce240_CHICKEN_SHISH_KEBAB-p-1600.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6fa1a43a87f22ce240_CHICKEN%20SHISH%20KEBAB-p-2000.jpeg",
+      "local": "assets/images/73e66f78dc-6a67be6fa1a43a87f22ce240_CHICKEN_SHISH_KEBAB-p-2000.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6fa1a43a87f22ce240_CHICKEN%20SHISH%20KEBAB-p-2600.jpeg",
+      "local": "assets/images/64e821a66c-6a67be6fa1a43a87f22ce240_CHICKEN_SHISH_KEBAB-p-2600.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6fa1a43a87f22ce240_CHICKEN%20SHISH%20KEBAB-p-3200.jpeg",
+      "local": "assets/images/355b6e6354-6a67be6fa1a43a87f22ce240_CHICKEN_SHISH_KEBAB-p-3200.jpeg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6ef84a8dd463af06f7_RIBEYE%20STEAK-p-500.png",
+      "local": "assets/images/6d423825da-6a67be6ef84a8dd463af06f7_RIBEYE_STEAK-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6ef84a8dd463af06f7_RIBEYE%20STEAK-p-800.png",
+      "local": "assets/images/ea0bcac6a2-6a67be6ef84a8dd463af06f7_RIBEYE_STEAK-p-800.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6e158a38e817a6b976_SKIRT%20STEAK-p-500.png",
+      "local": "assets/images/11ce0fc358-6a67be6e158a38e817a6b976_SKIRT_STEAK-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6e158a38e817a6b976_SKIRT%20STEAK-p-800.png",
+      "local": "assets/images/b5f3849c7e-6a67be6e158a38e817a6b976_SKIRT_STEAK-p-800.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6325fefb48b98ae83b27_SPAGHETTI%20AGLIO%20E%20OLIO%20WITH%20SHRIMP-p-500.jpg",
+      "local": "assets/images/0e143e9465-6a5e6325fefb48b98ae83b27_SPAGHETTI_AGLIO_E_OLIO_WITH_SHRIMP-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6325fefb48b98ae83b27_SPAGHETTI%20AGLIO%20E%20OLIO%20WITH%20SHRIMP-p-800.jpg",
+      "local": "assets/images/9d53f8c0d1-6a5e6325fefb48b98ae83b27_SPAGHETTI_AGLIO_E_OLIO_WITH_SHRIMP-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6325fefb48b98ae83b27_SPAGHETTI%20AGLIO%20E%20OLIO%20WITH%20SHRIMP-p-1080.jpg",
+      "local": "assets/images/68d06dbaab-6a5e6325fefb48b98ae83b27_SPAGHETTI_AGLIO_E_OLIO_WITH_SHRIMP-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6325fefb48b98ae83b27_SPAGHETTI%20AGLIO%20E%20OLIO%20WITH%20SHRIMP-p-1600.jpg",
+      "local": "assets/images/5b36e3744c-6a5e6325fefb48b98ae83b27_SPAGHETTI_AGLIO_E_OLIO_WITH_SHRIMP-p-1600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6325fefb48b98ae83b27_SPAGHETTI%20AGLIO%20E%20OLIO%20WITH%20SHRIMP-p-2000.jpg",
+      "local": "assets/images/98d4697721-6a5e6325fefb48b98ae83b27_SPAGHETTI_AGLIO_E_OLIO_WITH_SHRIMP-p-2000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6325fefb48b98ae83b27_SPAGHETTI%20AGLIO%20E%20OLIO%20WITH%20SHRIMP-p-2600.jpg",
+      "local": "assets/images/584c36bd9d-6a5e6325fefb48b98ae83b27_SPAGHETTI_AGLIO_E_OLIO_WITH_SHRIMP-p-2600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6325fefb48b98ae83b27_SPAGHETTI%20AGLIO%20E%20OLIO%20WITH%20SHRIMP-p-3200.jpg",
+      "local": "assets/images/e75e174bc4-6a5e6325fefb48b98ae83b27_SPAGHETTI_AGLIO_E_OLIO_WITH_SHRIMP-p-3200.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6281fefb48b98ae7c1be_TRUFFLE%20PARMESAN%20FRIES-p-500.jpg",
+      "local": "assets/images/24f5d950bd-6a5e6281fefb48b98ae7c1be_TRUFFLE_PARMESAN_FRIES-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6281fefb48b98ae7c1be_TRUFFLE%20PARMESAN%20FRIES-p-800.jpg",
+      "local": "assets/images/7e2f6f04d3-6a5e6281fefb48b98ae7c1be_TRUFFLE_PARMESAN_FRIES-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6281fefb48b98ae7c1be_TRUFFLE%20PARMESAN%20FRIES-p-1080.jpg",
+      "local": "assets/images/055a0c1fd8-6a5e6281fefb48b98ae7c1be_TRUFFLE_PARMESAN_FRIES-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6281fefb48b98ae7c1be_TRUFFLE%20PARMESAN%20FRIES-p-1600.jpg",
+      "local": "assets/images/8163fde53f-6a5e6281fefb48b98ae7c1be_TRUFFLE_PARMESAN_FRIES-p-1600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6281fefb48b98ae7c1be_TRUFFLE%20PARMESAN%20FRIES-p-2000.jpg",
+      "local": "assets/images/010455056e-6a5e6281fefb48b98ae7c1be_TRUFFLE_PARMESAN_FRIES-p-2000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e6281fefb48b98ae7c1be_TRUFFLE%20PARMESAN%20FRIES-p-2600.jpg",
+      "local": "assets/images/c075e1f584-6a5e6281fefb48b98ae7c1be_TRUFFLE_PARMESAN_FRIES-p-2600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e65275b89da4dc043c303_ROASTED%20POTATOES-p-500.jpg",
+      "local": "assets/images/c416aee0a9-6a5e65275b89da4dc043c303_ROASTED_POTATOES-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e65275b89da4dc043c303_ROASTED%20POTATOES-p-800.jpg",
+      "local": "assets/images/e338822826-6a5e65275b89da4dc043c303_ROASTED_POTATOES-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e65275b89da4dc043c303_ROASTED%20POTATOES-p-1080.jpg",
+      "local": "assets/images/318ef3d40a-6a5e65275b89da4dc043c303_ROASTED_POTATOES-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e65275b89da4dc043c303_ROASTED%20POTATOES-p-1600.jpg",
+      "local": "assets/images/fef2ab1c24-6a5e65275b89da4dc043c303_ROASTED_POTATOES-p-1600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6df959ee33a42fa52f_RICE-p-500.png",
+      "local": "assets/images/75ab4ab05b-6a67be6df959ee33a42fa52f_RICE-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6d6b7db7f6de51e849_ARTISAN%20PINSA%20BREAD-p-500.png",
+      "local": "assets/images/56d58831dd-6a67be6d6b7db7f6de51e849_ARTISAN_PINSA_BREAD-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6e7de76e4c213325dd_APPLE%20PIE-p-500.png",
+      "local": "assets/images/e89f97acb5-6a67be6e7de76e4c213325dd_APPLE_PIE-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6e225777ef79dad799_FRUIT%20PLATTER%20-p-500.png",
+      "local": "assets/images/aaf5ee2c3e-6a67be6e225777ef79dad799_FRUIT_PLATTER_-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a67be6e225777ef79dad799_FRUIT%20PLATTER%20-p-800.png",
+      "local": "assets/images/3e492863d7-6a67be6e225777ef79dad799_FRUIT_PLATTER_-p-800.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5f5b4e45d5a4c074a2bd_CLASSIC%20TIRAMISU-p-500.jpg",
+      "local": "assets/images/7df351495c-6a5e5f5b4e45d5a4c074a2bd_CLASSIC_TIRAMISU-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5f5b4e45d5a4c074a2bd_CLASSIC%20TIRAMISU-p-800.jpg",
+      "local": "assets/images/0fe725a0bd-6a5e5f5b4e45d5a4c074a2bd_CLASSIC_TIRAMISU-p-800.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5f5b4e45d5a4c074a2bd_CLASSIC%20TIRAMISU-p-1080.jpg",
+      "local": "assets/images/2e1502929e-6a5e5f5b4e45d5a4c074a2bd_CLASSIC_TIRAMISU-p-1080.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5f5b4e45d5a4c074a2bd_CLASSIC%20TIRAMISU-p-1600.jpg",
+      "local": "assets/images/f4b76c3b0d-6a5e5f5b4e45d5a4c074a2bd_CLASSIC_TIRAMISU-p-1600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5f5b4e45d5a4c074a2bd_CLASSIC%20TIRAMISU-p-2000.jpg",
+      "local": "assets/images/bef94ad5ca-6a5e5f5b4e45d5a4c074a2bd_CLASSIC_TIRAMISU-p-2000.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5f5b4e45d5a4c074a2bd_CLASSIC%20TIRAMISU-p-2600.jpg",
+      "local": "assets/images/ec5282099c-6a5e5f5b4e45d5a4c074a2bd_CLASSIC_TIRAMISU-p-2600.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5e5f5b4e45d5a4c074a2bd_CLASSIC%20TIRAMISU-p-3200.jpg",
+      "local": "assets/images/36e135588d-6a5e5f5b4e45d5a4c074a2bd_CLASSIC_TIRAMISU-p-3200.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a686f5908e061caa77b9104_Emerald%20forest-p-500.png",
+      "local": "assets/images/5d165d5db7-6a686f5908e061caa77b9104_Emerald_forest-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a686f5908e061caa77b9104_Emerald%20forest-p-800.png",
+      "local": "assets/images/b15c5a6805-6a686f5908e061caa77b9104_Emerald_forest-p-800.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6870aa565ad8d3777a4aab_Sweet%20poison-p-500.png",
+      "local": "assets/images/46989d3931-6a6870aa565ad8d3777a4aab_Sweet_poison-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6870aa565ad8d3777a4aab_Sweet%20poison-p-800.png",
+      "local": "assets/images/2696b44298-6a6870aa565ad8d3777a4aab_Sweet_poison-p-800.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a686f58e6bcfcd23e6e3a7c_Scorpio%20heart-p-500.png",
+      "local": "assets/images/31238ecf11-6a686f58e6bcfcd23e6e3a7c_Scorpio_heart-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a686f58e6bcfcd23e6e3a7c_Scorpio%20heart-p-800.png",
+      "local": "assets/images/017cd0a08d-6a686f58e6bcfcd23e6e3a7c_Scorpio_heart-p-800.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a686f57c817dcef83b7cbc7_Iceberg-p-500.png",
+      "local": "assets/images/31374963bd-6a686f57c817dcef83b7cbc7_Iceberg-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a686f57c817dcef83b7cbc7_Iceberg-p-800.png",
+      "local": "assets/images/b5b5829d77-6a686f57c817dcef83b7cbc7_Iceberg-p-800.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6870f33270751311c51d40_Berry%20crush-p-500.png",
+      "local": "assets/images/66f8e75bd9-6a6870f33270751311c51d40_Berry_crush-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a6870f33270751311c51d40_Berry%20crush-p-800.png",
+      "local": "assets/images/ce06aa001f-6a6870f33270751311c51d40_Berry_crush-p-800.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6aefc13e0a4faf98366665d9_16D928A5-6E23-45BE-B570-8B41829B3CFD-p-500.jpg",
+      "local": "assets/images/d96fc2c02f-6aefc13e0a4faf98366665d9_16D928A5-6E23-45BE-B570-8B41829B3CFD-p-500.jpg"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d40c6a5db3796b30621c1_B-52%20SHOT-p-500.png",
+      "local": "assets/images/59905cecc5-6a5d40c6a5db3796b30621c1_B-52_SHOT-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d4115e3ebb7d5873d6461_MINI%20DIABLO-p-500.png",
+      "local": "assets/images/75ec539da6-6a5d4115e3ebb7d5873d6461_MINI_DIABLO-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d414d62117e57604779aa_MINI%20BLACK%20FOREST-p-500.png",
+      "local": "assets/images/8b359c45db-6a5d414d62117e57604779aa_MINI_BLACK_FOREST-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d417b0e72bcb440ae8b06_GREEN%20TEA-p-500.png",
+      "local": "assets/images/ecaf6dfcfc-6a5d417b0e72bcb440ae8b06_GREEN_TEA-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d41b486cf13ef3e687f24_PICKLEBACK-p-500.png",
+      "local": "assets/images/90f149077e-6a5d41b486cf13ef3e687f24_PICKLEBACK-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5d41db089f1016a7eeefb3_PASSION%20FRUIT-p-500.png",
+      "local": "assets/images/eb3f2ade25-6a5d41db089f1016a7eeefb3_PASSION_FRUIT-p-500.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a50d225a6553bcb76c63896_HostGrotesk-Bold.ttf",
+      "local": "assets/fonts/edd927bb3c-6a50d225a6553bcb76c63896_HostGrotesk-Bold.ttf"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a50d25e6288d448d97e60e7_HostGrotesk-Medium.ttf",
+      "local": "assets/fonts/23c549b6c4-6a50d25e6288d448d97e60e7_HostGrotesk-Medium.ttf"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a50d270338911c177e622c7_HostGrotesk-Regular.ttf",
+      "local": "assets/fonts/e781633b25-6a50d270338911c177e622c7_HostGrotesk-Regular.ttf"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a50eb3b70c788dcbc60d06b_main-video.gif",
+      "local": "assets/images/95ddde8833-6a50eb3b70c788dcbc60d06b_main-video.gif"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5916645cff7873b10cfefe_%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-07-13%20194802.png",
+      "local": "assets/images/f18872953b-6a5916645cff7873b10cfefe_______________2026-07-13_194802.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5fc919f8e68f2676bca634_cil_arrow-right.png",
+      "local": "assets/images/8a63582300-6a5fc919f8e68f2676bca634_cil_arrow-right.png"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5945e9079d37de49443a2f_IMG_2232.JPG",
+      "local": "assets/images/951dd06fb7-6a5945e9079d37de49443a2f_IMG_2232.JPG"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a594682e0267561cdaea797_IMG_2233.JPG",
+      "local": "assets/images/1eb5a36832-6a594682e0267561cdaea797_IMG_2233.JPG"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/6a50b91ccb858389987ef9f3/6a5cb55eb0c76d8699c19a3c_IMG_2235.JPG",
+      "local": "assets/images/a3314c16f8-6a5cb55eb0c76d8699c19a3c_IMG_2235.JPG"
+    }
+  ]
+}
